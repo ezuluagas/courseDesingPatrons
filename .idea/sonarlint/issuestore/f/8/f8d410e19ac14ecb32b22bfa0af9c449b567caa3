@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³¬µùÿÿÿÿ8’¦Ú½£.
+U
+java:S1197"8Move the array designator from the variable to the type.(êõ»”8’¦Ú½£.
+O
+java:S2755"-Disable XML external entity (XXE) processing.(ÛÜşÃıÿÿÿÿ8’¦Ú½£.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(«Ã¥8’¦Ú½£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»¾Ì³ûÿÿÿÿ8’¦Ú½£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¾ê«ûÿÿÿÿ8’¦Ú½£.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¶›æä8’¦Ú½£.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(½¯‰ù8’¦Ú½£.

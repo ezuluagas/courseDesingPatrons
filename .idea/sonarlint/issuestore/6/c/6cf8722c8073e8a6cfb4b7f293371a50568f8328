@@ -1,0 +1,12 @@
+
+‚
+java:S1845"gRename method "lastName" to prevent any misunderstanding/clash with field "lastName" defined on line 7.(ôïñ·þÿÿÿÿ
+p
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(…ú†ìûÿÿÿÿ
+o
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(…ú†ìûÿÿÿÿ
+
+java:S1845"iRename method "firstName" to prevent any misunderstanding/clash with field "firstName" defined on line 7.(ã’÷Ã
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÜž¥ûÿÿÿÿ
+B
+java:S1659"'Declare "firstName" on a separate line.(…ú†ìûÿÿÿÿ

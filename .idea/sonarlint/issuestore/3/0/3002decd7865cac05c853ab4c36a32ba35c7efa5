@@ -1,0 +1,5 @@
+
+E
+java:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8¤ü‰õ—.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë”ñ½8¤ü‰õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰â¹ıÿÿÿÿ8¤ü‰õ—.

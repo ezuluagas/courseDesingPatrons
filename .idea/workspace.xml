@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b3a5683-d27f-4fa5-be29-9fc2406d2f73" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dessingPatrons" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Enum" />
+        <option value="Gradle Kotlin DSL Build Script" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z513YLNxpOZDv0gVh8qAKXetHM" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/streams/dataProcesingCourse/module5/files" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.41426927" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="streams.dataProcesingCourse.module6.code.model" />
+      <recent name="streams.dataProcesingCourse.modeule4" />
+      <recent name="org.apache.derby.jdbc" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/streams/dataProcesingCourse/module6/files" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estructurales.bridge.figura2" />
+      <recent name="estructurales.adapter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/streams/dataProcesingCourse/module5/files" />
+      <recent name="$PROJECT_DIR$/src/main/java/streams/dataProcesingCourse/module2/files" />
+      <recent name="$PROJECT_DIR$/src/main/java/creacionales/abstractFactory" />
+      <recent name="$PROJECT_DIR$/src/main/java/prototype" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainMoviesActors">
+    <configuration name="MainMoviesActors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.dataProcesingCourse.module6.code.MainMoviesActors" />
+      <module name="dessingPatrons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.dataProcesingCourse.module6.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainUsingOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.dataProcesingCourse.modeule4.MainUsingOptional" />
+      <module name="dessingPatrons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.dataProcesingCourse.modeule4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.dataProcesingCourse.modeule3.ParallelStreams" />
+      <module name="dessingPatrons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.dataProcesingCourse.modeule3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shakespeare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.dataProcesingCourse.module2.code.Shakespeare" />
+      <module name="dessingPatrons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.dataProcesingCourse.module2.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShakespearePlaysScrabble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.dataProcesingCourse.module5.code.ShakespearePlaysScrabble" />
+      <module name="dessingPatrons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.dataProcesingCourse.module5.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainMoviesActors" />
+        <item itemvalue="Application.ShakespearePlaysScrabble" />
+        <item itemvalue="Application.MainUsingOptional" />
+        <item itemvalue="Application.ParallelStreams" />
+        <item itemvalue="Application.Shakespeare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3a5683-d27f-4fa5-be29-9fc2406d2f73" name="Default Changelist" comment="" />
+      <created>1584113942880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584113942880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/streams/module3/MainAPICollectionMap.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/streams/dataProcesingCourse/module1/CreatingSpliterator.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/streams/dataProcesingCourse/module6/code/MainMoviesActors.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

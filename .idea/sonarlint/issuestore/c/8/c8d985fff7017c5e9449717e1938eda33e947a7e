@@ -1,0 +1,14 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "p6".(Ò²ÉÁ8¤ê‘õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Éİ¯êúÿÿÿÿ8¤ê‘õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒïŞÍúÿÿÿÿ8¤ê‘õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïÚ¿øÿÿÿÿ8¤ê‘õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹çÌ®şÿÿÿÿ8¤ê‘õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âÇûÜşÿÿÿÿ8¤ê‘õ—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÊ·Ã8¤ê‘õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´²Ïíúÿÿÿÿ8¤ê‘õ—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊãÏ‹8¤ê‘õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßÄÂ§ùÿÿÿÿ8¤ê‘õ—.
+D
+java:S1481"'Remove this unused "p6" local variable.(Ò²ÉÁ8¤ê‘õ—.

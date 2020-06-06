@@ -1,0 +1,15 @@
+
+N
+java:S1612",Replace this lambda with a method reference.(şøü´ÿÿÿÿÿ8×ü‰õ—.
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8×ü‰õ—.
+t
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(İ›Š–8×ü‰õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ûã“ıÿÿÿÿ8×ü‰õ—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—°´ú8×ü‰õ—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢¯ŒŒøÿÿÿÿ8×ü‰õ—.
+y
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(şøü´ÿÿÿÿÿ8×ü‰õ—.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¢Ê¸ıÿÿÿÿ8×ü‰õ—.
+y
+java:S4276-"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(µ—º™ûÿÿÿÿ8×ü‰õ—.

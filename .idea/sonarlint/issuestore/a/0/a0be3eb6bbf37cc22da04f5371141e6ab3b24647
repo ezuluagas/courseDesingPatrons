@@ -1,0 +1,45 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "f2".(ßŠ‚‡ÿÿÿÿÿ8ì÷õ—.
+Y
+java:S1854"7Remove this useless assignment to local variable "cmp".(í†ìÒûÿÿÿÿ8ì÷õ—.
+R
+java:S1854"6Remove this useless assignment to local variable "f1".(ƒø¢98ì÷õ—.
+S
+java:S1481"1Remove this unused "cmpPersonAge" local variable.(ÀİäÎúÿÿÿÿ8ì÷õ—.
+N
+java:S1612",Replace this lambda with a method reference.(ßŠ‚‡ÿÿÿÿÿ8ì÷õ—.
+N
+java:S1481"1Remove this unused "cmpFirstName" local variable.(Üç§8ì÷õ—.
+C
+java:S1481"'Remove this unused "f1" local variable.(ƒø¢98ì÷õ—.
+X
+java:S1854"6Remove this useless assignment to local variable "f3".(³ÀÙÎÿÿÿÿÿ8ì÷õ—.
+H
+java:S1612",Replace this lambda with a method reference.(ƒø¢98ì÷õ—.
+N
+java:S1612",Replace this lambda with a method reference.(³ÀÙÎÿÿÿÿÿ8ì÷õ—.
+J
+java:S1481"(Remove this unused "cmp" local variable.(í†ìÒûÿÿÿÿ8ì÷õ—.
+g
+java:S1854"ERemove this useless assignment to local variable "cmpPersonLastName".(Ã×«ûÿÿÿÿ8ì÷õ—.
+M
+java:S1481"0Remove this unused "cmpLastName" local variable.(ÕšÎ8ì÷õ—.
+\
+java:S1854":Remove this useless assignment to local variable "cmpAge".(¹û…×üÿÿÿÿ8ì÷õ—.
+b
+java:S1854"@Remove this useless assignment to local variable "cmpPersonAge".(ÀİäÎúÿÿÿÿ8ì÷õ—.
+]
+java:S1854"@Remove this useless assignment to local variable "cmpFirstName".(Üç§8ì÷õ—.
+X
+java:S1481"6Remove this unused "cmpPersonLastName" local variable.(Ã×«ûÿÿÿÿ8ì÷õ—.
+I
+java:S1481"'Remove this unused "f2" local variable.(ßŠ‚‡ÿÿÿÿÿ8ì÷õ—.
+\
+java:S1854"?Remove this useless assignment to local variable "cmpLastName".(ÕšÎ8ì÷õ—.
+M
+java:S1481"+Remove this unused "cmpAge" local variable.(¹û…×üÿÿÿÿ8ì÷õ—.
+I
+java:S1481"'Remove this unused "f3" local variable.(³ÀÙÎÿÿÿÿÿ8ì÷õ—.
+w
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Person>'(ƒø¢98ì÷õ—.

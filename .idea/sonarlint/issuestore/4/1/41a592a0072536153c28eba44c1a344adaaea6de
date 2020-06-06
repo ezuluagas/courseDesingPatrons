@@ -1,0 +1,39 @@
+
+I
+java:S1612t",Replace this lambda with a method reference.(åäø‚8¿Ó•â›.
+`
+java:S3027("JPut single-quotes around ')' to use the faster "lastIndexOf(char)" method.(ï—Ó¿
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(»ì´º8èñ­ïš.
+O
+java:S1612µ",Replace this lambda with a method reference.(™¤Åëüÿÿÿÿ8²Ç“è›.
+Z
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(–Ã…¿
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(·Ù„Ø
+S
+java:S3655Y"7Call "Optional#isPresent()" before accessing the value.(ƒÉ§'8á›Úğš.
+V	java:S106Ç"9Replace this use of System.out or System.err by a logger.(˜ˆÄ8·§¡è›.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ë»Áıûÿÿÿÿ8¶ëğš.
+O
+java:S1612¸",Replace this lambda with a method reference.(·×óÎûÿÿÿÿ8²Ç“è›.
+O
+java:S1602œ",Remove useless curly braces around statement(ÖÏÖ˜ıÿÿÿÿ8²Ç“è›.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¼öÏùÿÿÿÿ
+N
+java:S1612q",Replace this lambda with a method reference.(¯ ¼©úÿÿÿÿ8¿Ó•â›.
+a
+java:S3027&"FPut single-quotes around '(' to use the faster "indexOf(char)" method.(ÊÀä”úÿÿÿÿ
+O
+java:S1612—",Replace this lambda with a method reference.(¯ ¼©úÿÿÿÿ8²Ç“è›.
+N
+java:S1602v",Remove useless curly braces around statement(ÖÏÖ˜ıÿÿÿÿ8¿Ó•â›.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÓÒÒÃ8Ïèêğš.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÊçşÿÿÿÿ8‹†´â›.
+T
+java:S3655”"7Call "Optional#isPresent()" before accessing the value.(ƒÉ§'8¹ëšè›.
+J
+java:S1612š",Replace this lambda with a method reference.(åäø‚8²Ç“è›.
+k
+java:S1128"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ8Ïèêğš.
+`
+java:S3027("JPut single-quotes around '(' to use the faster "lastIndexOf(char)" method.(ï—Ó¿
